@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Mozart's Skripts
 
-You can use the [editor on GitHub](https://github.com/officialMozart/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello 👋 As you probably know i am Mozart. I am a skripter for the minehut market (https://minehut.com/market/catalog)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our market team is called #Continuum#
 
-### Markdown
+If you need help with any of my skripts join my support discord (https://discord.gg/8buk8TXYkT)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Proof of ownership
+
+[Image]https://imgur.com/a/ivgvR6C
 
 ```markdown
 Syntax highlighted code block
