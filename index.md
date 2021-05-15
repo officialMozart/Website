@@ -9,7 +9,7 @@ If you need help with any of my skripts join my support [Discord](https://discor
 
 ## Proof of ownership
 
-![Image](https://imgur.com/a/ivgvR6C)
+![Image](https://i.imgur.com/7Mibwvm.png)
 
 ## Contact
 
