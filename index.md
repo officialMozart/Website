@@ -1,6 +1,6 @@
 ## Mozart's Skripts
 
-Hello 👋 As you probably know i am Mozart. I am a skripter for the minehut market (https://minehut.com/market/catalog)
+Hello 👋 As you probably know i am Mozart. I am a skripter for the minehut market [https://minehut.com/market/catalog]
 
 Our market team is called
 # Continuum
@@ -9,7 +9,7 @@ If you need help with any of my skripts join my support discord (https://discord
 
 ### Proof of ownership
 
-[Image]https://imgur.com/a/ivgvR6C
+![https://imgur.com/a/ivgvR6C]
 
 ```markdown
 Syntax highlighted code block
