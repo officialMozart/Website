@@ -15,7 +15,7 @@ If you need help with any of my skripts join my support [Discord](https://discor
 
 You can contact me on discord: Mozart✔#7825
 
-##Skripts Released
+## Skripts Released
 
 [S Core](https://www.spigotmc.org/resources/s-core-skript-essentials-alternative.81423/)
 
